@@ -57,12 +57,12 @@ export default siteConfig({
   navigationStyle: 'custom',
   navigationLinks: [
     {
-      title: 'Blog',
-      pageId: '59432e1a0cdf4effbb402701deff00a9'
+      title: 'All post',
+      pageId: '9192614f7925461b9e111ad0a7275811'
     },    
     {
-      title: 'NoCode VN',
-      pageId: '93331fa2964045248502bd314019c917'
+      title: 'Medical Book',
+      pageId: '2ffb2fa96f9f42ce9274af7da0e84759'
     },    
     {
       title: 'Contact',
