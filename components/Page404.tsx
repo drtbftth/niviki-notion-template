@@ -6,7 +6,7 @@ import { PageHead } from './PageHead'
 import styles from './styles.module.css'
 
 export const Page404: React.FC<types.PageProps> = ({ site, pageId, error }) => {
-  const title = site?.name || 'Page Not Found'
+  const title = site?.name || 'Thật Không May Bài Viết Bạn Vừa Click Vào Chưa Có Sẵn, Chờ xíu nha để tui fix'
 
   return (
     <>
