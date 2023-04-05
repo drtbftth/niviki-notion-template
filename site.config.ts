@@ -65,8 +65,8 @@ export default siteConfig({
       pageId: '93331fa2964045248502bd314019c917'
     },    
     {
-      title: 'Khoá học',
-      pageId: '8e761b9e7d1b4db1ae76bbc1e4f9aa1f'
+      title: 'Contact',
+      pageId: 'd367bbb576224de59343262a1fa7710f'
     },    
     {
       title: 'About',
